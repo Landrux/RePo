@@ -1,0 +1,23 @@
+{
+"coches":[{
+	"modelo" : "Ibiza",
+	"marca" : "SEAT"
+	},
+	{
+	"modelo" : "A3",
+	"marca" : "AUDI"
+	},
+	{
+	"modelo" : "Serie 3",
+	"marca" : "BMW"
+	},
+	{
+	"modelo" : "508",
+	"marca" : "Peugeot"
+	},
+	{
+	"modelo" : "Leon",
+	"marca" : "SEAT"
+ }
+]
+}
